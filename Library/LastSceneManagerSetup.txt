@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/Unity_Animation_Gaming Assignments/2021250625_Assignment3/Assets/2021250625_Assignment3.unity
+  isLoaded: 1
+  isActive: 1
